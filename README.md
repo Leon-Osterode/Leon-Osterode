@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning to much
+- ⚡ Fun fact: I like Turtles 🐢
+
 <!--
 **Leon-Osterode/Leon-Osterode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
